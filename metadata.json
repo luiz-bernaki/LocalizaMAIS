@@ -1,0 +1,6 @@
+{
+  "name": "Localiza+",
+  "description": "Localiza+ • Sistema inteligente e institucional de Achados e Perdidos do IFPR Campus Ivaiporã com inteligência artificial, conferência por QR Code e suporte PWA.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
